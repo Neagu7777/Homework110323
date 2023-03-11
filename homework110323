@@ -1,0 +1,20 @@
+   0 nano sleeper.sh
+   1 cat /etc/os-releanse
+   2 date
+   3 date + '%H:%M:%S'
+   4 date +'%H:%M:%S'
+   5 ps -ef
+   6 ps -ef | wc
+   7 cat /etc/os-releanse
+   8 cat /etc/os-release
+   9 cat /etc/os-release | head -1 | awk '{print $1}' | sed 's/NAME="//'
+  10 cat /etc/os-release | grep -o Alpine | head -1|
+  11 ps -ef | wc -l
+  12 cat /etc/os-release | head-1 >> cat /etc/os-release | head-1 | awk '{print $1}' | sed 's/NAME="//' >> /tmp/1.txt
+  13 nano sleeper.sh
+  14 bash sleeper.sh
+  15 nano sleeper.sh
+  16 bash sleeper.sh
+  17 cat /tmp/1.txt
+  18 history
+  19 history > homework110323
